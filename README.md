@@ -37,7 +37,7 @@
 * Bước 4: Thưởng thức trò chơi.
 
 
-* Lưu ý: Trong trường hợp bạn bật file cpp lên và bị như này thì đừng lo, chúng ta sẽ sửa như sau:
+##### Lưu ý: Trong trường hợp bạn bật file cpp lên và bị như này thì đừng lo, chúng ta sẽ sửa như sau:
 
 ![image](https://user-images.githubusercontent.com/100293832/170166857-2f0838e0-7854-4f4d-8be3-0d396bfaf9ff.png)
 
