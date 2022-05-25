@@ -29,11 +29,33 @@
 ![image](https://user-images.githubusercontent.com/100293832/170078329-c5fc16d0-3ea4-4964-9f65-a2f0fca9caac.png)
 * Cuối cùng, bạn bấm nút **Nút OK** để hoàn tất cài đặt nhé.
 
+
 #### iii) Cài đặt và chạy game:
 * Bước 1: Bạn hãy download folder **Run** về máy.
 * Bước 2: Giải nén (nếu có), và sau đó chọn file **Run!!.cbp** và mở lên.
 * Bước 3: Bấm phím **F9** để chơi game, hoặc có thể tìm biểu tượng ![image](https://user-images.githubusercontent.com/100293832/170079367-de773ca9-74a3-4016-ae2d-aeb3217f542c.png) trên thanh công cụ.
 * Bước 4: Thưởng thức trò chơi.
+
+
+* Lưu ý: Trong trường hợp bạn bật file cpp lên và bị như này thì đừng lo, chúng ta sẽ sửa như sau:
+
+![image](https://user-images.githubusercontent.com/100293832/170166857-2f0838e0-7854-4f4d-8be3-0d396bfaf9ff.png)
+
+
+- Bước 1: Bấm chuột phải vào file main.cpp, rồi chọn **Remove file from project**.
+
+![image](https://user-images.githubusercontent.com/100293832/170166901-9c5b434a-ee0d-4095-9194-e77209298fe0.png)
+
+
+- Bước 2: Bấm chuột phải vào project **Run!!**, và chọn **Add file**.
+
+![image](https://user-images.githubusercontent.com/100293832/170166935-2d8ed0ea-efd4-4bd7-806e-f16de090a1e9.png)
+
+- Bước 3: Chọn tất cả các file có đuôi **.cpp** hoặc **.h**, sau khi chọn xong bạn bấm **Open** -> Bấm **OK**. Từ đó bạn sẽ có những file đầy đủ như ảnh dưới.
+
+![image](https://user-images.githubusercontent.com/100293832/170167104-0bfa12ad-eb09-4d96-b83e-1a7c233a2b19.png)
+
+- Bước 4: Làm như hướng dẫn ở trên và thưởng thức trò chơi.
 
 ## 2. Mô tả chung về trò chơi, các ý tưởng chính:
 * Mô tả chung về trò chơi: Bạn sẽ nhập vai vào nhân vật bị mắc két trong rừng rậm, và bạn phải đánh bại các con quái vật trong thời gian nhất định để có thể thoát khỏi khu rừng. 
