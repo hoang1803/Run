@@ -91,3 +91,9 @@
 * Cần phải biết được đặc tính của từng vật thể mà mình định làm, rồi sau đó nhóm chúng vào từng lớp.
 * Để từng lớp ra các file khác nhau để quản lý từng lớp cho dễ dàng.
 * Cần đặt tên biến, comment vào code để sau này có xem lại thì còn có thể hiểu được.
+
+## 6. Hướng dẫn chơi:
+* Nhảy: nút **w**
+* Sang trái: nút **a**
+* Sang phải: nút **d**
+* Tấn công: nút **j**
