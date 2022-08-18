@@ -58,7 +58,7 @@
 - Bước 4: Làm như hướng dẫn ở trên và thưởng thức trò chơi.
 
 ## 2. Mô tả chung về trò chơi, các ý tưởng chính:
-* Mô tả chung về trò chơi: Bạn sẽ nhập vai vào nhân vật bị mắc két trong rừng rậm, và bạn phải đánh bại các con quái vật trong thời gian nhất định để có thể thoát khỏi khu rừng. 
+* Mô tả chung về trò chơi: Bạn sẽ nhập vai vào nhân vật bị mắc kẹt trong rừng rậm, và bạn phải đánh bại các con quái vật trong thời gian nhất định để có thể thoát khỏi khu rừng. 
 * Ý tưởng chính: Nhân vật cầm kiếm di chuyển để chém quái vật, có các vật phẩm hồi máu và tăng sức tấn công.
 
 ## 3. Các chức năng đã cài đặt, gồm có:
